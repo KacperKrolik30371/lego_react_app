@@ -13,5 +13,6 @@ Projekt frontendowy wykonany w technologii React.
 
 ## Uruchomienie projektu
 
+```bash
 npm install
 npm run dev
